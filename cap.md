@@ -1,2 +1,2 @@
-oi, sou o Sid
+oi, sou o Sidoka 
 Eu gosto de Blockchain
