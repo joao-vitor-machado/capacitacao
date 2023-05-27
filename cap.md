@@ -1,2 +1,2 @@
-oi, sou o Sidoka 
+oi, sou o Sidoka. Faço BSI
 Eu gosto de Blockchain
